@@ -1,0 +1,32 @@
+{
+  "name": "metaai-sdk",
+  "version": "1.0.0",
+  "description": "A Node.js client for interacting with Meta AI's powerful APIs. This package simplifies the process of sending prompts to the AI and receiving responses, allowing developers to leverage the capabilities of the Llama 3 model seamlessly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezhillragesh/metaai-sdk.git"
+  },
+  "keywords": [
+    "nodejs",
+    "meta",
+    "ai",
+    "llama3",
+    "client",
+    "AI",
+    "sdk"
+  ],
+  "author": "Ezhill Ragesh <https://github.com/ezhillragesh>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezhillragesh/metaai-sdk/issues"
+  },
+  "homepage": "https://github.com/ezhillragesh/metaai-sdk#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "express": "^4.21.0"
+  }
+}
